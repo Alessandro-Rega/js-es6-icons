@@ -112,3 +112,4 @@ const icone = [
 		color: 'blue'
 	}
 ];
+
